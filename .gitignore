@@ -1,0 +1,5 @@
+vendor/nette/utils/src/Utils/exceptions.php
+composer.lock
+index.html
+test.php
+vendor/*
